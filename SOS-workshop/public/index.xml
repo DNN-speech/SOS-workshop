@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Communication Technologies for Social Good</title>
+    <link>http://localhost:1313/SOS-workshop/</link>
+    <description>Recent content on Communication Technologies for Social Good</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>mariannedhk@gmail.com (Marianne de Heer Kloots)</managingEditor>
+    <webMaster>mariannedhk@gmail.com (Marianne de Heer Kloots)</webMaster>
+    <copyright>Marianne de Heer Kloots</copyright>
+    <atom:link href="http://localhost:1313/SOS-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOS site visit workshop at Amsterdam Science Park - Communication Technologies for Social Good</title>
+      <link>http://localhost:1313/SOS-workshop/workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mariannedhk@gmail.com (Marianne de Heer Kloots)</author>
+      <guid>http://localhost:1313/SOS-workshop/workshop/</guid>
+      <description>&lt;h3 id=&#34;sos-site-visit-workshop-at-amsterdam-science-park&#34;&gt;SOS site visit workshop at Amsterdam Science Park&lt;/h3&gt;&#xA;&lt;p&gt;On &lt;strong&gt;Tuesday November 17th&lt;/strong&gt;, &lt;a href=&#34;https://openspraaktechnologie.org/&#34;&gt;Stichting Open Spraaktechnologie&lt;/a&gt; is visiting Amsterdam Science Park! For this site visit workshop, we have been inspired by the &lt;a href=&#34;https://language-science.nl/&#34;&gt;Language Sciences for Social Good&lt;/a&gt; consortium at University of Amsterdam, and we are excited to learn about applications of speech and language technologies with societal value.&lt;/p&gt;&#xA;&lt;p&gt;We are currently collecting talk, poster and demo contributions. Sign up by November 1st through our &#xA;&lt;a href=&#34;#&#34;&gt;&lt;button&gt;&lt;b&gt;registration form&lt;/b&gt;&lt;/button&gt;&lt;/a&gt; if you would like to join!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h3 id="sos-site-visit-workshop-at-amsterdam-science-park">SOS site visit workshop at Amsterdam Science Park</h3>
+<p>On <strong>Tuesday November 17th</strong>, <a href="https://openspraaktechnologie.org/">Stichting Open Spraaktechnologie</a> is visiting Amsterdam Science Park! For this site visit workshop, we have been inspired by the <a href="https://language-science.nl/">Language Sciences for Social Good</a> consortium at University of Amsterdam, and we are excited to learn about applications of speech and language technologies with societal value.</p>
+<p>We are currently collecting talk, poster and demo contributions. Sign up by November 1st through our 
+<a href="#"><button><b>registration form</b></button></a> if you would like to join!</p>
+<p>Currently confirmed presentations are listed in our <a href="/SOS-workshop/workshop/#preliminary-programme">preliminary programme</a> below, we will add more information soon.</p>
+<h4 id="time">Time</h4>
+<p>Between 14:00 and 18:00</p>
+<h4 id="venue">Venue</h4>
+<p><a href="https://www.sustainalab.nl/">SustainaLab</a> event space, Amsterdam Science Park campus (<a href="https://maps.app.goo.gl/Lci3uz65ANpU5cD16">location</a>)</p>
+<h4 id="local-organizers">Local organizers</h4>
+<p><a href="https://www.uva.nl/en/profile/s/h/g.shekoufandeh/g.shekoufandeh.html">Golshid Shekoufandeh</a> (ACLC, UvA), <a href="https://mdhk.net/">Marianne de Heer Kloots</a> (ILLC, UvA) <br>
+For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl"><a href="mailto:g.shekoufandeh@uva.nl">g.shekoufandeh@uva.nl</a></a></p>
+<h4 id="preliminary-programme">Preliminary programme</h4>
+
+
+<script src="https://kit.fontawesome.com/2502d9ad4b.js" crossorigin="anonymous"></script>
+<div class="wrapper">
+<table border="0">
+  <tr  class="header">
+      <th colspan="2"><span>▾</span> Keynote lecture</th>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://utrecht-bci.nl/julia-berezutskaya/">Julia Berezutskaya</a> - UMC Utrecht & <a href="https://www.ucanact.com/">UCANACT</a>
+    </td>
+  </tr>
+  <tr  class="header">
+      <th colspan="2"><span>▾</span> Talks</th>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://verenablaschke.github.io/">Verena Blaschke</a> - Speech technology for dialects and regional language varieties
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://www.ru.nl/personen/gao-l">Lingyun Gao</a> - Speech technology for child reading assessment
+    </td>
+  </tr>
+  <tr>
+    <td>
+    TBA, <a href="#"><button><b>sign up here</b></button></a> if you would like to contribute!
+    </td>
+  </tr>
+  <tr  class="header">
+      <th colspan="2"><span>▾</span> Posters & Demos</th>
+  </tr>
+    <td>
+    TBA, <a href="#"><button><b>sign up here</b></button></a> if you would like to contribute!
+    </td>
+</table>
+</div>
+
+<h4 id="acknowledgements">Acknowledgements</h4>
+<p>This workshop is supported by <a href="https://openspraaktechnologie.org/">Stichting Open Spraaktechnologie</a>. We are also thankful to SustainaLab for lending us their event space.</p>
+
+
+<div class="flex-container" style="width:50%">
+    <div class="flex-item-left">
+        <a href="https://openspraaktechnologie.org/"><img src="https://openspraaktechnologie.org/logo-large.png" width=150></img></a>
+    </div>
+    <div class="flex-item-center"></div>
+    <div class="flex-item-right">
+        <a href="https://sustainalab.nl/"><img src="https://www.sustainalab.nl/wp-content/uploads/2023/11/SustainaLab_Logo_RGB.png" width=150></img></a>
+    </div>
+    
+</div>
+
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

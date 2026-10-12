@@ -1,0 +1,8 @@
+{{ $id := printf "inline-details-%d" .Ordinal -}}
+<span class="inline-details"><input type="checkbox" id="{{ $id }}" class="inline-details-toggle"><label for="{{ $id }}"
+        class="inline-details-summary">{{ (.Get 0) | markdownify }}</label><span class="inline-details-content">{{
+        .Inner | markdownify }}</span></span>
+<!-- <details>
+    <summary>{{ (.Get 0) | markdownify }}</summary>
+    {{ .Inner | markdownify }}
+</details> -->

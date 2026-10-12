@@ -1,0 +1,8 @@
+<small>
+  {{ .Site.Copyright }} :: <b>ANN-HumLang</b> {{ range
+  .Site.Menus.main.ByWeight }}
+  <a href="{{ .URL }}">{{ .Name }}</a> /
+  {{ end }}
+
+  <!-- Last update: {{ .Site.Lastmod | time.Format ":date_long" }} -->
+</small>
