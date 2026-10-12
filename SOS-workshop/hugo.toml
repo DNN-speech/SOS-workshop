@@ -49,7 +49,7 @@ target = 'static/images'
   last_update = "2026-10-12"
 
   # The description of your website
-  description = "Site visit workshop of Stichting Open Spraaktechnologie at Amsterdam Science Park on Communication Technologies for Social Good (November 17th, 2026)."
+  description = "Site visit workshop of Stichting Open Spraaktechnologie at Amsterdam Science Park (November 17th, 2026)."
 
   # The path to your favicon
   favicon = "images/favicon.ico"
@@ -106,7 +106,7 @@ target = 'static/images'
 
 [services]
   [services.googleAnalytics]
-    id = 'G-E2K0GJTW1F'
+    id = 'G-XK00WZE9G5'
 
 [privacy]
   [privacy.googleAnalytics]

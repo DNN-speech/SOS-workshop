@@ -3,16 +3,16 @@
 
 <a class="skip-link" href="#main-content">{{ i18n "skip-link" }}</a>
 <div class="flex-container">
-    <div class="flex-item-left">
+    <div class="flex-item-left" style="width:90%">
         <a href="{{ relURL .Site.Home.RelPermalink }}" class="title">
-            <div style="width:90%">
+            <div>
                 <h1>{{ .Site.Params.Title }}</h1>
             </div>
         </a>
     </div>
     <div class="flex-item-center"></div>
     <div class="flex-item-right">
-        <img src="{{ relURL .Site.Home.RelPermalink }}/images/SOS-workshop-logo.svg">
+        <img src=" {{ relURL .Site.Home.RelPermalink }}/images/SOS-workshop-logo.svg">
     </div>
 </div>
 
