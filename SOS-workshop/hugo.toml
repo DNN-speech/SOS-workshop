@@ -49,7 +49,7 @@ target = 'static/images'
   last_update = "2026-10-12"
 
   # The description of your website
-  description = "We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition!"
+  description = "Site visit workshop of Stichting Open Spraaktechnologie at Amsterdam Science Park on Communication Technologies for Social Good (November 17th, 2026)."
 
   # The path to your favicon
   favicon = "images/favicon.ico"
