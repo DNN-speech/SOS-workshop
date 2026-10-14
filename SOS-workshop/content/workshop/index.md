@@ -31,7 +31,8 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   </tr>
   <tr>
     <td>
-    <a href="https://utrecht-bci.nl/julia-berezutskaya/">Julia Berezutskaya</a> - UMC Utrecht & <a href="https://www.ucanact.com/">UCANACT</a>
+    <a href="https://utrecht-bci.nl/julia-berezutskaya/">Julia Berezutskaya</a> (UMC Utrecht & <a href="https://www.ucanact.com/">UCANACT</a>):<br>
+    <b>Brain-computer interfaces for communication: from the lab to the home</b>
     </td>
   </tr>
   <tr  class="header">
@@ -55,9 +56,16 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   <tr  class="header">
       <th colspan="2"><span>▾</span> Posters & Demos</th>
   </tr>
+  <tr>
+    <td>
+    <a href="https://speaklybee.com/">SpeaklyBee</a> (Quint Wiersma)
+    </td>
+  </tr>
+  <tr>
     <td>
     TBA, <a href="#"><button><b>sign up here</b></button></a> if you would like to contribute!
     </td>
+  </tr>
 </table>
 </div>
 {{< /rawhtml >}}
