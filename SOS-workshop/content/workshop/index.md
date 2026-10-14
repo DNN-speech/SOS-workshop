@@ -6,7 +6,7 @@ title: "SOS site visit workshop at Amsterdam Science Park - Communication Techno
 
 On **Tuesday November 17th**, [Stichting Open Spraaktechnologie](https://openspraaktechnologie.org/) is visiting Amsterdam Science Park! For this site visit workshop, we have been inspired by the [Language Sciences for Social Good](https://language-science.nl/) consortium at University of Amsterdam, and we are excited to learn about applications of speech and language technologies with societal value.
 
-We are currently collecting talk, poster and demo contributions. Sign up by November 1st through our {{< rawhtml >}}<a href="#"><button><b>registration form</b></button></a>{{< /rawhtml >}} if you would like to join! 
+We are currently collecting talk, poster and demo contributions. Sign up by November 1st through our {{< rawhtml >}}<a href="https://forms.gle/GPYfkYeh7efvQdDLA"><button><b>registration form</b></button></a>{{< /rawhtml >}} if you would like to join! 
 
 Currently confirmed presentations are listed in our [preliminary programme](#preliminary-programme) below, we will add more information soon.
 
@@ -31,7 +31,7 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   </tr>
   <tr>
     <td>
-    <a href="https://utrecht-bci.nl/julia-berezutskaya/">Julia Berezutskaya</a> (UMC Utrecht & <a href="https://www.ucanact.com/">UCANACT</a>):<br>
+    <a href="https://utrecht-bci.nl/julia-berezutskaya/">Julia Berezutskaya</a> (UMC Utrecht & <a href="https://www.ucanact.com/">UCANACT</a>)<br>
     <b>Brain-computer interfaces for communication: from the lab to the home</b>
     </td>
   </tr>
@@ -50,7 +50,7 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   </tr>
   <tr>
     <td>
-    TBA, <a href="#"><button><b>sign up here</b></button></a> if you would like to contribute!
+    TBA, <a href="https://forms.gle/GPYfkYeh7efvQdDLA"><button><b>sign up here</b></button></a> if you would like to contribute!
     </td>
   </tr>
   <tr  class="header">
@@ -63,7 +63,7 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   </tr>
   <tr>
     <td>
-    TBA, <a href="#"><button><b>sign up here</b></button></a> if you would like to contribute!
+    TBA, <a href="https://forms.gle/GPYfkYeh7efvQdDLA"><button><b>sign up here</b></button></a> if you would like to contribute!
     </td>
   </tr>
 </table>
