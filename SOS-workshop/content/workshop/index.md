@@ -50,6 +50,11 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   </tr>
   <tr>
     <td>
+    <a href="https://www.linkedin.com/in/mknachesa/">Maya Nachesa</a> - Fairness in automatic subtitling
+    </td>
+  </tr>
+  <tr>
+    <td>
     TBA, <a href="https://forms.gle/GPYfkYeh7efvQdDLA"><button><b>sign up here</b></button></a> if you would like to contribute!
     </td>
   </tr>
@@ -58,7 +63,8 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   </tr>
   <tr>
     <td>
-    <a href="https://speaklybee.com/">SpeaklyBee</a> (Quint Wiersma)
+    Quint Wiersma & Pascal Koot - 
+    <a href="https://speaklybee.com/">SpeaklyBee</a>: The AI-powered speech practice app for children, parents, and therapists
     </td>
   </tr>
   <tr>
