@@ -63,8 +63,18 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
   </tr>
   <tr>
     <td>
-    Quint Wiersma & Pascal Koot - 
-    <a href="https://speaklybee.com/">SpeaklyBee</a>: The AI-powered speech practice app for children, parents, and therapists
+    <a href="https://www.illc.uva.nl/People/Table/person/5480/Jos-Ritmeester">Jos Ritmeester</a> (UvA)<br> <i>Can virtual signers support sign language learning?</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://www.kuleuven.be/lili/members/index.html/00146803">Ella Eycken</a> (KU Leuven)<br> <i>Call me maybe? Validation, reliability and preliminary results of telephone-based language interviews to assess language recovery after stroke</i>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    Quint Wiersma & Pascal Koot (<a href="https://speaklybee.com/">SpeaklyBee</a>)<br> 
+    <i>SpeaklyBee: The AI-powered speech practice app for children, parents, and therapists</i>
     </td>
   </tr>
   <tr>
