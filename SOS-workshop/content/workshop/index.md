@@ -76,6 +76,17 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
     <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/dimme-de-groot">Dimme de Groot</a> (TU Delft)<br> <i>DRES: A Dataset of Dutch Realistic Elicited Speech</i>
     </td>
   </tr>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://people.utwente.nl/d.a.balan">Dragos Balan</a> (Universiteit Twente)<br> <i>ASR Domain Adaptation via Data Selection for Children and Non-Native Speakers</i>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://www.rug.nl/staff/annie.luo/">Yue Luo</a> (University of Groningen)<br> <i>Characterizing Cross-Mode Latent Prediction For Whispered Speech</i>
+    </td>
+  </tr>
   <tr>
     <td>
     Quint Wiersma & Pascal Koot (<a href="https://speaklybee.com/">SpeaklyBee</a>)<br> 
