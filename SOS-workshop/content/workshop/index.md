@@ -67,6 +67,12 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
     </td>
   </tr>
   <tr>
+  <tr>
+    <td>
+    <a href="https://palmanna.github.io/website/">Anna Palmann</a> (UvA)<br> <i>Developing a VR-Training for Conversation Partners of Hard of Hearing People</i>
+    </td>
+  </tr>
+  <tr>
     <td>
     <a href="https://www.kuleuven.be/lili/members/index.html/00146803">Ella Eycken</a> (KU Leuven)<br> <i>Call me maybe? Validation, reliability and preliminary results of telephone-based language interviews to assess language recovery after stroke</i>
     </td>
@@ -82,9 +88,14 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.
     <a href="https://people.utwente.nl/d.a.balan">Dragos Balan</a> (Universiteit Twente)<br> <i>ASR Domain Adaptation via Data Selection for Children and Non-Native Speakers</i>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>
     <a href="https://www.rug.nl/staff/annie.luo/">Yue Luo</a> (University of Groningen)<br> <i>Characterizing Cross-Mode Latent Prediction For Whispered Speech</i>
+    </td>
+  </tr>
+    <tr>
+    <td>
+    <a href="https://www.rug.nl/staff/s.rashidi/">Sina Rashidi</a> & <a href="https://www.rug.nl/staff/t.w.j.specht/">Tido Specht</a> (University of Groningen)<br> <i>Speech and Language Technologies for Low Saxon Languages</i>
     </td>
   </tr>
   <tr>
