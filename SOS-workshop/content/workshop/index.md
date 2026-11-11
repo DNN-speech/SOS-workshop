@@ -8,7 +8,7 @@ On **Tuesday November 17th**, [Stichting Open Spraaktechnologie](https://openspr
 
 This workshop is open to the public but places are limited and registration is required. Sign up through the {{< rawhtml >}}<a href="https://forms.gle/GPYfkYeh7efvQdDLA"><button><b>registration form</b></button></a>{{< /rawhtml >}} if you would like to join! 
 
-Our [tentative programme](#tentative-programme) is below, we will add more information soon.
+The workshop [programme](#programme) is below.
 
 #### Time
 Between 14:00 and 18:00
@@ -20,7 +20,7 @@ Between 14:00 and 18:00
 [Golshid Shekoufandeh](https://www.uva.nl/en/profile/s/h/g.shekoufandeh/g.shekoufandeh.html) (ACLC, UvA), [Marianne de Heer Kloots](https://mdhk.net/) (ILLC, UvA) <br>
 For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl">g.shekoufandeh@uva.nl</a>
 
-#### Tentative programme
+#### Programme
 
 {{< rawhtml >}}
 <script src="https://kit.fontawesome.com/2502d9ad4b.js" crossorigin="anonymous"></script>
@@ -133,7 +133,12 @@ Language technologies have been improving by leaps and bounds when it comes to p
   </tr>
     <tr>
     <td colspan="2">
-    <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/dimme-de-groot">Dimme de Groot</a> & <a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/yuanyuan-zhang">Yuanyuan Zhang</a> (TU Delft)<br> <i>A Semi-Spontaneous Dutch Speech Dataset for Speech Enhancement and Speech Recognition</i>
+    <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/dimme-de-groot">Dimme de Groot</a> (TU Delft)<br> <i>A Semi-Spontaneous Dutch Speech Dataset for Speech Enhancement and Speech Recognition</i>
+    </td>
+  </tr>
+    <tr>
+    <td colspan="2">
+    <a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/yuanyuan-zhang">Yuanyuan Zhang</a> (TU Delft)<br> <i>Crowdfunding an <a href="https://www.supporttudelft.nl/project/veelbelovend-spraakherkenningsmodel-voor-live-ondertiteling-van-mensen?locale=en">app for live captioning</a> of people with a speech impairment</i>
     </td>
   </tr>
   </tr>

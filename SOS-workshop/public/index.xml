@@ -20,7 +20,7 @@
 <p>On <strong>Tuesday November 17th</strong>, <a href="https://openspraaktechnologie.org/">Stichting Open Spraaktechnologie</a> is visiting Amsterdam Science Park! For this site visit workshop, we have been inspired by the <a href="https://language-science.nl/">Language Sciences for Social Good</a> consortium at University of Amsterdam, and we are excited to learn about applications of speech and language technologies with societal value.</p>
 <p>This workshop is open to the public but places are limited and registration is required. Sign up through the 
 <a href="https://forms.gle/GPYfkYeh7efvQdDLA"><button><b>registration form</b></button></a> if you would like to join!</p>
-<p>Our <a href="/SOS-workshop/workshop/#tentative-programme">tentative programme</a> is below, we will add more information soon.</p>
+<p>The workshop <a href="/SOS-workshop/workshop/#programme">programme</a> is below.</p>
 <h4 id="time">Time</h4>
 <p>Between 14:00 and 18:00</p>
 <h4 id="venue">Venue</h4>
@@ -28,7 +28,7 @@
 <h4 id="local-organizers">Local organizers</h4>
 <p><a href="https://www.uva.nl/en/profile/s/h/g.shekoufandeh/g.shekoufandeh.html">Golshid Shekoufandeh</a> (ACLC, UvA), <a href="https://mdhk.net/">Marianne de Heer Kloots</a> (ILLC, UvA) <br>
 For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl"><a href="mailto:g.shekoufandeh@uva.nl">g.shekoufandeh@uva.nl</a></a></p>
-<h4 id="tentative-programme">Tentative programme</h4>
+<h4 id="programme">Programme</h4>
 
 
 <script src="https://kit.fontawesome.com/2502d9ad4b.js" crossorigin="anonymous"></script>
@@ -145,7 +145,12 @@ For questions, please contact Golshid: <a href="mailto:g.shekoufandeh@uva.nl"><a
   </tr>
     <tr>
     <td colspan="2">
-    <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/dimme-de-groot">Dimme de Groot</a> & <a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/yuanyuan-zhang">Yuanyuan Zhang</a> (TU Delft)<br> <i>A Semi-Spontaneous Dutch Speech Dataset for Speech Enhancement and Speech Recognition</i>
+    <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/dimme-de-groot">Dimme de Groot</a> (TU Delft)<br> <i>A Semi-Spontaneous Dutch Speech Dataset for Speech Enhancement and Speech Recognition</i>
+    </td>
+  </tr>
+    <tr>
+    <td colspan="2">
+    <a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/multimedia-computing/people/yuanyuan-zhang">Yuanyuan Zhang</a> (TU Delft)<br> <i>Crowdfunding an <a href="https://www.supporttudelft.nl/project/veelbelovend-spraakherkenningsmodel-voor-live-ondertiteling-van-mensen?locale=en">app for live captioning</a> of people with a speech impairment</i>
     </td>
   </tr>
   </tr>
